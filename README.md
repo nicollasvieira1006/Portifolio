@@ -1,6 +1,6 @@
 # Portifolio
 Meu portfólio pessoal (iniciante em análise de dados e desenvolvimento).
-# Portfólio de Nicollas Vieira
+Portfólio de Nicollas Vieira
 
 Bem-vindo ao meu portfólio profissional! 🚀  
 Sou **Analista de Dados e Desenvolvedor em formação**, apaixonado por tecnologia, resolução de problemas e aprendizado constante.
