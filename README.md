@@ -17,5 +17,5 @@ Usar dados e tecnologia para criar soluções inteligentes e ajudar empresas a t
 
 ---
 
-Feito com dedicação ❤️  
+Feito com dedicação   
 © 2025 Nicollas Vieira
