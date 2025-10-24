@@ -1,40 +1,65 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nicollas Vieira | Portfólio</title>
-  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nicollas Vieira | Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 </head>
 <body>
-  <header>
-    <h1>Nicollas Vieira</h1>
-    <p class="subtitle">Analista de Dados e Desenvolvedor em formação</p>
+  <header class="fade-in">
+    <h1>👋 Hi, I'm <span class="highlight">Nicollas Vieira</span></h1>
+    <p>Junior Developer | Data Enthusiast | Tech Lover</p>
   </header>
 
-  <main>
-    <section class="about">
-      <h2>Sobre mim</h2>
-      <p>
-        Sou apaixonado por tecnologia e análise de dados. Tenho experiência com suporte técnico, manutenção de computadores e desenvolvimento de sistemas. 
-        Atualmente, estou me especializando na área de análise de dados, com foco em transformar informações em decisões inteligentes e estratégicas.
-      </p>
-    </section>
+  <section id="about" class="fade-in">
+    <h2>About Me</h2>
+    <p>
+      I'm passionate about technology and problem-solving. I’ve worked in a computer store providing technical support and system maintenance, 
+      which strengthened my troubleshooting and communication skills. 
+      I recently graduated in Systems Analysis and Development, and I’m currently focused on improving my programming and data analysis skills.
+    </p>
+  </section>
 
-    <section class="skills">
-      <h2>Habilidades</h2>
-      <ul>
-        <li>Python (Pandas, NumPy, Matplotlib)</li>
-        <li>SQL e Banco de Dados</li>
-        <li>Excel e Power BI</li>
-        <li>HTML, CSS e JavaScript</li>
-        <li>Git e GitHub</li>
-      </ul>
-    </section>
-  </main>
+  <section id="skills" class="fade-in delay-1">
+    <h2>Skills</h2>
+    <div class="skills-grid">
+      <div class="skill"><i class="fab fa-html5"></i><span>HTML5</span></div>
+      <div class="skill"><i class="fab fa-css3-alt"></i><span>CSS3</span></div>
+      <div class="skill"><i class="fab fa-js"></i><span>JavaScript</span></div>
+      <div class="skill"><i class="fab fa-python"></i><span>Python</span></div>
+      <div class="skill"><i class="fas fa-database"></i><span>SQL</span></div>
+      <div class="skill"><i class="fab fa-github"></i><span>Git & GitHub</span></div>
+    </div>
+  </section>
 
-  <footer>
-    <p>© 2025 Nicollas Vieira | Feito com dedicação 🚀</p>
+  <section id="projects" class="fade-in delay-2">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>💾 PC Maintenance Log System</h3>
+      <p>A simple app to register and track computer repairs using HTML, CSS, and JavaScript.</p>
+      <a href="https://github.com/SeuUsuario/pc-maintenance-log" target="_blank">View on GitHub</a>
+    </div>
+
+    <div class="project">
+      <h3>📊 Data Dashboard (Python)</h3>
+      <p>Dashboard created using Pandas and Matplotlib to analyze sales data and display insights visually.</p>
+      <a href="https://github.com/SeuUsuario/data-dashboard" target="_blank">View on GitHub</a>
+    </div>
+  </section>
+
+  <section id="contact" class="fade-in delay-3">
+    <h2>Contact</h2>
+    <p>📧 <a href="mailto:nicollasvieira1005@gmail.com">nicollasvieira1005@gmail.com</a></p>
+    <p>💼 <a href="https://www.linkedin.com/in/nicollasvieira" target="_blank">linkedin.com/in/nicollasvieira</a></p>
+    <p>🐙 <a href="https://github.com/SeuUsuario" target="_blank">github.com/SeuUsuario</a></p>
+  </section>
+
+  <footer class="fade-in delay-4">
+    <p>© 2025 Nicollas Vieira — Built with ❤️ using HTML, CSS and JS</p>
   </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
