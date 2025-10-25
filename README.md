@@ -13,8 +13,8 @@ Sou **Analista de Dados e Desenvolvedor em formação**, apaixonado por tecnolog
 - Git e GitHub
 
 ## 🧭 Objetivo
-Usar dados e tecnologia para criar soluções inteligentes e ajudar empresas a tomarem decisões baseadas em evidências.
-
+Utilizar dados e tecnologia para desenvolver soluções inteligentes, eficientes e baseadas em evidências, que auxiliem empresas na tomada de decisões estratégicas.
+Busco evoluir continuamente como analista e desenvolvedor, aplicando boas práticas de programação, análise de dados e automação de processos para gerar impacto real e mensurável.
 ---
 
 Feito com dedicação   
