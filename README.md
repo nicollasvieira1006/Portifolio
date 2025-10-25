@@ -27,7 +27,7 @@ Utilizar **dados e tecnologia** para criar soluções inteligentes, eficientes e
 
 - 📧 nicollasvieira1005@gmail.com  
 - 📍 São Paulo - SP  
-- 🌐 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/nicollasvieiraalves)) | [GitHub]([https://github.com/](https://github.com/nicollasvieira1006))  
+- 🌐 [LinkedIn]([(https://www.linkedin.com/in/nicollasvieiraalves)]) | [GitHub]([https://github.com/](https://github.com/nicollasvieira1006))  
 
 ---
 
